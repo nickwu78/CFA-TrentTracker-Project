@@ -1,7 +1,7 @@
 require 'rspotify'
 require 'terminal-table'
 
-RSpotify::authenticate("6cd30a3e2da54c3e90182b7890b52041", "8c22bb799dfb49cf8df01b24e40c7eb2")
+RSpotify::authenticate("#", "#")
 
 class Song
   def initialize
