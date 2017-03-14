@@ -23,23 +23,23 @@ Install the dependencies:
 
 Install google-maps-services:
 
-gem install google_maps_service
+`gem install google_maps_service`
 
 Install rspotify:
 
-gem install rspotify
+`gem install rspotify`
 
 Install mail
 
-gem install mail
+`gem install mail`
 
 Install terminal-table
 
-gem install terminal-table
+`gem install terminal-table`
 
 The app runs in the terminal. Run:
 
-ruby TrentTracker.rb
+`ruby TrentTracker.rb`
 
 ## How to use
 
